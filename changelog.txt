@@ -1,0 +1,29 @@
+D.20121201
+----------
+
+- Added POST_LIMIT flag, defaults to 5.
+
+D.20121128
+----------
+
+- Stylesheet and index updated to reflect changes.
+- New function, GetAllPosts() now does all the work.
+- Moved to own project folder
+- Created README.txt, LICENSE.txt
+- Created project structure
+- 'test.php'->'index.php'
+- Created 'posts/first_post.txt' with feature demo
+- Changed from CC-BY-SA to BSD open license
+
+D.20121127
+----------
+
+- Post object created
+- Category support added via recursive subdirectories
+
+D.20121125
+----------
+
+- Split initial concept into it's own script
+- Various starter functions written
+- Logos created!
